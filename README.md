@@ -86,7 +86,7 @@ Worldwise is a web application that allows users to explore and document cities 
 ### Homepage
 ![Homepage Screenshot](./assets/homepage.png)
 
-### Homepage
+### Login Page
 ![Login Screenshot](./assets/login-page.png)
 
 ### Interactive Map
