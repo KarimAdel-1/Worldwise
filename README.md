@@ -1,6 +1,5 @@
-#<img src="./assets/icon.png" width="30" alt="Icon"> Worldwise
+# <img src="./assets/icon.png" style="width: 30px; vertical-align: middle;" alt="Icon"><span style="font-size: 2em;">Worldwise</span>
 
-Worldwise is a web application that allows users to explore and document cities they have visited, including storing notes, dates, and other relevant information. The application leverages React, React Router, and Leaflet for dynamic city exploration, and uses a JSON server for backend data handling.
 
 ## Features
 
