@@ -1,5 +1,4 @@
-# <img src="./assets/icon.png" width="50" alt="Icon"/> **Worldwise** 
-
+# <img src="./assets/logo.png" alt="Icon"/> 
 
 ## Features
 
