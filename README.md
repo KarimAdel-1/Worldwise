@@ -1,4 +1,4 @@
-# <img src="./assets/icon.png" style="width: 30px; vertical-align: middle;" alt="Icon"><span style="font-size: 2em;">Worldwise</span>
+# <img src="./assets/icon.png" style="width: 50px; vertical-align: middle;" alt="Icon"> <span style="font-size: 4em;">Worldwise</span>
 
 
 ## Features
