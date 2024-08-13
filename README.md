@@ -34,45 +34,45 @@ Worldwise is a web application that allows users to explore and document cities 
 1. **Clone the repository**:
 
    
-bash
+ ```bash
    git clone https://github.com/KarimAdel-1/worldwise.git
    cd worldwise
-
+ ```
 
 2. **Install dependencies**:
 
    
-bash
+ ```bash
    npm install
-
+ ```
 
 3. **Start the development server**:
 
    
-bash
+ ```bash
    npm run dev
-
+ ```
 
 4. **Start the JSON server** (for backend data):
 
    
-bash
+ ```bash
    npm run server
-
+ ```
 
 5. **Build the project**:
 
    
-bash
+ ```bash
    npm run build
-
+ ```
 
 6. **Preview the production build**:
 
    
-bash
+ ```bash
    npm run preview
-
+ ```
 
 ## Usage
 
