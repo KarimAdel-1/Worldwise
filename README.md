@@ -22,12 +22,12 @@
 
 ## 🚀 Getting Started
 
-### Prerequisites
+### 🟢 Prerequisites
 
 - Node.js (v14 or higher)
 - npm (v6 or higher)
 
-### Installation
+### 🟢 Installation
 
 1. **Clone the repository**:
 
@@ -72,7 +72,7 @@
    npm run preview
  ```
 
-## Usage
+## 👌 Usage
 
 - **Homepage**: Browse the homepage and navigate to other sections such as Product, Pricing, and Login.
 - **Map Interaction**: Click on the map to select cities and add them to your visited list.
