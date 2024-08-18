@@ -21,7 +21,7 @@
   - [JSON Server](https://github.com/typicode/json-server)
 
 ## 🚀 Getting Started
-
+ 
 ### 🟢 Prerequisites
 
 - Node.js (v14 or higher)
